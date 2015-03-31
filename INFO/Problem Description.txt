@@ -1,0 +1,5 @@
+Problem
+Today more and more restaraunts  have web-pages but don't have mobile apps for people
+
+Problem solution
+Design the app that allows a user to found out information about dishes in this restaurant
